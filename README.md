@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Studying at University of Information and Technology<br>✨ Interested in Data Analyst<br>📖 Recently start with Python<br>🔭 Planning on my first project<br>🎇 Looking for a job
+💼 Studying at University of Information and Technology<br>✨ Interested in Data Analyst<br>📖 Recently learning Python<br>🔭 Planning on my first project<br>🎇 Looking for a job
 
 
 ## 🌐 Socials:
