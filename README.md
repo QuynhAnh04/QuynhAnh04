@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Studying at University of Information and Technology<br>✨ I aspire to be a Web Developer<br>📖 Recently learning Python<br>🔭 Planning on my first project<br>🌟 Have interested in building a smart city<br>🎇 Looking for a job
+💼 Studying at University of Information and Technology<br>✨ I aspire to be a Web Developer<br>🔭 Planning on my first project<br>🌟 Having interested in building a smart city<br>🎇 Looking for a job
 
 
 ## 🌐 Socials:
